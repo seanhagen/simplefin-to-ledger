@@ -1,0 +1,12 @@
+#+TITLE: Simplefin-to-Ledger Notes
+
+* Resources
+- [[https://github.com/charmbracelet/huh/issues/105][huh autocomplete]]
+- [[https://github.com/ncruces/go-sqlite3][sqlite3 driver]]
+- [[https://github.com/charmbracelet/fang?tab=readme-ov-file][fang]]
+- [[https://github.com/charmbracelet/huh][huh]]
+- [[https://github.com/charmbracelet/bubbletea?tab=readme-ov-file][bubbletea]]
+- [[https://github.com/gledger/gledger][gledger]] ( or possibly [[https://pkg.go.dev/github.com/mescanne/goledger@v1.0.0/book][goledger]] )
+- [[https://github.com/spf13/cobra-cli/blob/main/README.md][cobra-cli]]
+- [[https://github.com/spf13/cobra/blob/main/site/content/user_guide.md][cobra user guide]]
+- [[https://github.com/spf13/viper][viper]]
